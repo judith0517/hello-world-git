@@ -5,6 +5,15 @@
 ##### cabecera H5
 ###### cabecera H6
 
+## Underlines:
+Underline 1 
+
+Underline 2
 
 
-Soy un readme.
+- formato *italica* de la primera forma.
+ - formato _italica_ de la segunda forma.
+ - formato **bold o strong** de la primera forma.
+ - formato __bold o strong__ de la segunda forma.
+ -formato ~~tachado~~, formato normal.
+ - aqtui podemos usar *formarto italico*, pero tambien **bold* y ~~tachado~~.
