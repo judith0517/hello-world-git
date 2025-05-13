@@ -16,4 +16,4 @@ Underline 2
  - formato **bold o strong** de la primera forma.
  - formato __bold o strong__ de la segunda forma.
  -formato ~~tachado~~, formato normal.
- - aqtui podemos usar *formarto italico*, pero tambien **bold* y ~~tachado~~.
+ - aqtui podemos usar *formarto italico*, pero tambien **bold* y ~~techado~~.
